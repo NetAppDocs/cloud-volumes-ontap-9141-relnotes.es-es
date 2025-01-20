@@ -738,7 +738,6 @@ Parejas DE ALTA disponibilidad: 18 en un nodo ^1^</block>
   <block id="d75c8a72363ede5ded8979310421b255" category="paragraph">Si aprovecha<block ref="e066b15eeebd4e6d571fd7dd588f94f7" category="inline-link-rx"></block> En el VPC al que se va a implementar Cloud Volumes ONTAP, deberá implementar registros de DNS que reenvíe el tráfico al requerido<block ref="e6b10532507a1a1747789a49cf51c637" category="inline-link-rx"></block>.</block>
   <block id="406156e49006d700786c581646d94504" category="paragraph">Actualmente, los datos por niveles de Cloud Volumes ONTAP en un bloque de almacenamiento de Google Cloud no son compatibles con Private Service Connect.</block>
   <block id="fd03e656adaf90d76d9f033d590bdd69" category="sidebar">En estas notas de la versión, se describen las nuevas funciones, las limitaciones y los problemas conocidos de Cloud Volumes ONTAP 9.14.1.</block>
-  <block id="3f93d29b3f8dc957c8b9ced853857b76" category="sidebar">Notas de la versión de Cloud Volumes ONTAP 9.14.1</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Manos a la obra</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Novedades</block>
   <block id="8efc36afc2e7202a9c9bda00b8e8a75d" category="sidebar">Información general sobre las licencias</block>
@@ -785,4 +784,8 @@ Parejas DE ALTA disponibilidad: 18 en un nodo ^1^</block>
   <block id="4b99ccc66c896711e2667fd1c7cc5a70" category="inline-link">Consulte la lista de errores solucionados en la revisión P9</block>
   <block id="fb8ea0e4d51a0d0169a671ee181b9aaf" category="paragraph"><block ref="2b0276e874ba4b91c515b88422e5a6f6" category="inline-link-rx"></block> (Se requiere inicio de sesión en el sitio de soporte de NetApp).</block>
   <block id="f1786ba391739a1a365a117fb19de2ea" category="sidebar">Notas de la versión de Cloud Volumes ONTAP 9.14.1</block>
+  <block id="dcfb927b1f6b73f1bfaae1d56a4950bf" category="section-title">9.14.1 P10 (20 de enero de 2025)</block>
+  <block id="78571fb34d82664f7485b0ab5ac3147e" category="paragraph">El parche 9.14.1 P10 ya está disponible para Cloud Volumes ONTAP para todos los proveedores de cloud. BlueXP le solicitará que actualice sus sistemas existentes a esta versión de revisión.</block>
+  <block id="7c8ff86b41b72d8fa99855f2e2c45139" category="inline-link">Consulte la lista de errores solucionados en la revisión P10</block>
+  <block id="59bb8174658546e00a502e06d274f287" category="paragraph"><block ref="fe45cd9e277846676a08a57720dc0074" category="inline-link-rx"></block> (Se requiere inicio de sesión en el sitio de soporte de NetApp).</block>
 </blocks>
