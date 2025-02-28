@@ -41,4 +41,4 @@ No puede elegir eficiencia de almacenamiento al crear un volumen desde BlueXP o 
 
 En algunas regiones no se admiten pares DE HA.
 
-https://cloud.netapp.com/cloud-volumes-global-regions["Consulte la lista de regiones de Azure admitidas"^].
+https://bluexp.netapp.com/cloud-volumes-global-regions["Consulte la lista de regiones de Azure admitidas"^].
